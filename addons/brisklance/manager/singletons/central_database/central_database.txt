@@ -1,3 +1,4 @@
 {
-&"head_plugin_mirrors": []
+&"head_plugin_mirrors": [Object(RefCounted,"script":Resource("uid://cd4aw6q3ub4qx", "res://addons/brisklance/manager/scripts/plugin_mirror.gd"),"repository_name":"iree-gd/iree.gd","repository_tag":"v0.0.6-tflite","dependencies":[])
+]
 }
